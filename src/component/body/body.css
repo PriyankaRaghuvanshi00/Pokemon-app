@@ -1,0 +1,9 @@
+.body{
+   position:absolute;
+   left: 0;
+top: 70px;
+   display: flex;
+   flex-wrap: wrap;
+   width: 100vw;
+   justify-content: center;
+}

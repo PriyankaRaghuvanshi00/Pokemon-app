@@ -1,0 +1,32 @@
+header{
+   position: fixed;
+   left: 0;
+   top: 0;
+   z-index: 1000;
+   width: 100vw;
+   background-color: rgba(0, 0, 0, 0.863);
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+}
+nav ul{
+   display: flex;
+   justify-content: center;
+}
+a{
+   text-decoration: none;
+}
+
+nav ul li{
+   list-style: none;
+   padding:6px 20px;
+   color: crimson;
+   font-size: 20px;
+   font-weight: 600;
+   font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li:hover{
+   color: yellow;
+border-radius: 20px;
+box-shadow: 1px 1px 10px rgba(255, 255, 0, 0.274);
+}
