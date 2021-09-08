@@ -1,7 +1,7 @@
 # Pokemon-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-link of the website is -  [https://pokemon-18a79.web.app/]
+link of the website is - https://pokemon-18a79.web.app/
 
 ## Available Scripts
 
